@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/backArrow.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/newPlus.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/parcel.png</file>
+        <file>icons/appIcon.png</file>
+    </qresource>
+</RCC>
